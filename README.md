@@ -44,7 +44,7 @@ To analyze customer satisfaction patterns and identify key factors influencing p
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](https://github.com/Sreeharipavithran/Excel-Project/blob/382ed8c34d82f05d619196e01c88b43224580659/dashboard_preview.png)
 
 ---
 
