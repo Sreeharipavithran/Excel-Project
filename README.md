@@ -57,6 +57,7 @@ To analyze customer satisfaction patterns and identify key factors influencing p
 ---
 
 ## 📂 Project Structure
+```
 excel-customer-satisfaction-dashboard/
 │
 ├── data/
@@ -72,3 +73,4 @@ excel-customer-satisfaction-dashboard/
 │   └── project_overview.md
 │
 └── README.md
+```
