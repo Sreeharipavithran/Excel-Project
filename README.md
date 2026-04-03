@@ -74,3 +74,7 @@ excel-customer-satisfaction-dashboard/
 │
 └── README.md
 ```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreeharipavithran30/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Sreeharipavithran)
+[![Dashboad](https://github.com/Sreeharipavithran/Excel-Project/blob/382ed8c34d82f05d619196e01c88b43224580659/dashboard_preview.png)
