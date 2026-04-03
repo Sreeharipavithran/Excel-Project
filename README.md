@@ -56,7 +56,7 @@ To analyze customer satisfaction patterns and identify key factors influencing p
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 ```
 excel-customer-satisfaction-dashboard/
 │
@@ -74,6 +74,8 @@ excel-customer-satisfaction-dashboard/
 │
 └── README.md
 ```
+## 📬 Connect with Me
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreeharipavithran30/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Sreeharipavithran)
